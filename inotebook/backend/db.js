@@ -1,5 +1,8 @@
 const mongoose=require('mongoose')
+
 const mongoURI='mongodb+srv://leezakhanna2109:ohBw8CYZa12A4KON@cluster0.mcwh2li.mongodb.net/inotebook?retryWrites=true&w=majority'
+
+
 
 
 const connectToMongo=()=>{
