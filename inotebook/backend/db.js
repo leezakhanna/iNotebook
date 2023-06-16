@@ -1,5 +1,5 @@
 const mongoose=require('mongoose')
-const mongoURI='mongodb+srv://leezakhanna2109:<password>@cluster0.mcwh2li.mongodb.net/?retryWrites=true&w=majority'
+const mongoURI='<Your connection string>'
 
 
 const connectToMongo=()=>{
